@@ -1,0 +1,25 @@
+{
+  "name": "cypress_cucumber_aplaninsurance",
+  "version": "1.0.0",
+  "description": "BDD Approach",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Georgekaseri/Cypress_Cucumber_AplanInsurance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Georgekaseri/Cypress_Cucumber_AplanInsurance/issues"
+  },
+  "homepage": "https://github.com/Georgekaseri/Cypress_Cucumber_AplanInsurance#readme",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^15.1.3",
+    "@cypress/webpack-preprocessor": "^5.16.2",
+    "cypress": "^12.5.1",
+    "cypress-xpath": "^2.0.1"
+  }
+}
